@@ -136,6 +136,6 @@ Add the above command in Jenkins Pipeline Script or Freestyle Project build step
 
 ## 🌏 Sample Project Structure
 
-![Project Structure Screenshot](./path-to-your-image.png)
+![Project Structure Screenshot]([./path-to-your-image.png](https://github.com/ni3patil2601/PetStoreAPIAutomation/blob/master/image.png))
 
-> Replace `./path-to-your-image.png` with the actual path to the image inside your repository (e.g., `/assets/structure.png` or `/docs/screenshot.png`).
+
