@@ -1,6 +1,6 @@
 # 🧪 PetStore API Automation Framework
 
-This project is an **API Automation Framework** designed for the [Swagger PetStore API]((https://petstore.swagger.io/)) using **Java**, **Rest Assured**, and **TestNG**. It supports **BDD-style testing**, integration with **CI/CD pipelines**, and is designed with extensibility and modularity in mind.
+This project is an **API Automation Framework** designed for the [Swagger PetStore API](https://petstore.swagger.io/) using **Java**, **Rest Assured**, and **TestNG**. It supports **BDD-style testing**, integration with **CI/CD pipelines**, and is designed with extensibility and modularity in mind.
 
 ---
 
@@ -85,7 +85,7 @@ mvn clean test -DsuiteXmlFile=testng.xml
 
 ---
 
-## 🥺 Test Scenarios
+##  ✅ Test Scenarios
 
 * ✅ **Create User** – POST Request validation
 * ✅ **Read User** – GET request using username
@@ -129,13 +129,12 @@ Add the above command in Jenkins Pipeline Script or Freestyle Project build step
 ## 👨‍💼 Author
 
 **Nitin Patil**
-[GitHub](https://github.com/ni3patil2601) | [LinkedIn](https://www.linkedin.com/in/nitinpatilsdet/) | 📧 [Gmail](mailto:ni3patil2601@gmail.com)
+[GitHub](https://github.com/ni3patil2601) | [LinkedIn](https://www.linkedin.com/in/nitinpatilsdet/) | [Gmail](mailto:ni3patil2601@gmail.com)
 
 
 ---
 
 ## 🌏 Sample Project Structure
 
-![Project Structure Screenshot]([./path-to-your-image.png](https://github.com/ni3patil2601/PetStoreAPIAutomation/blob/master/image.png))
-
+![Project Structure Screenshot](https://raw.githubusercontent.com/ni3patil2601/PetStoreAPIAutomation/master/image.png)
 
